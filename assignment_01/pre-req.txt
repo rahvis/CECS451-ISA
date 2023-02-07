@@ -1,0 +1,11 @@
+Install Anaconda 
+
+Windows: https://docs.anaconda.com/anaconda/install/windows/
+macOS: https://docs.anaconda.com/anaconda/install/mac-os/
+
+conda create --name cecs451 python=3.6
+conda activate cecs451
+python -V
+
+conda deactivate
+
